@@ -34,7 +34,7 @@ const entries = [
   {
     company: "IAMB Games",
     role: "Founder",
-    link: null,
+    link: "https://iamb.games",
     bullets: [
       "Professional Game Design Studio",
       "Have an international team of contractors",

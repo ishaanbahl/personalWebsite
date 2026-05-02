@@ -38,7 +38,7 @@ export default function RootLayout({
     >
       <body className="min-h-full">
           <BackgroundGradient />
-          <main className="max-w-7xl mx-auto w-full">{children}</main>
+          <main className="max-w-4xl mx-auto w-full">{children}</main>
         </body>
     </html>
   );
