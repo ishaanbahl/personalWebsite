@@ -45,11 +45,11 @@ export default function Hero() {
             </>
           )}
           {/* Text */}
-          <span className="relative z-10 text-gray-500 font-medium px-1">Hi! I&apos;m </span>
+          <span className="relative z-10 text-gray-500 font-medium px-1">Hi! I&apos;m</span>
           <span className="relative z-10 text-gray-900 font-medium px-1">Ishaan Bahl</span>
         </span>
         <span className="text-gray-500 font-medium">, a software engineer who loves to build </span>
-        <span className="text-gray-900 font-medium">high quality, beautiful </span>
+        <span className="text-gray-900 font-medium">beautiful, high quality </span>
         <span className="text-gray-500 font-medium">tech products.</span>
       </p>
       {/* Tagline — below hero text */}
