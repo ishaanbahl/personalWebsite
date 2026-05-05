@@ -6,7 +6,7 @@ const projects = [
     description: "Blocks distracting apps until the user finishes everything on their list.",
     image: "/Lok.png",
     href: "https://apps.apple.com/us/app/lok/id6761636868",
-    github: "https://github.com/ishaanbahl/lok",
+    github: "https://github.com/ishaanbahl/LockIn",
     tags: ["React Native", "Swift", "XCode", "Custom Shield Configs", "iOS Family Controls API", "Push Notifications"],
   },
   {
@@ -14,7 +14,7 @@ const projects = [
     description: "AI parses through course syllabus and sets up a dashboard with all important dates.",
     image: "/SyllabAI.png",
     href: "https://syllabi.gadget.app/",
-    github: "https://github.com/ishaanbahl/syllabai",
+    github: "https://github.com/joshuasoup/Syllab.ai",
     tags: ["React", "TypeScript", "Supabase", "OAuth"],
   },
   {
@@ -30,7 +30,7 @@ const projects = [
     description: "Set up your profile & find scholarships you're eligible for.",
     image: "/Grantly.png",
     href: "https://grantly-scholarships.vercel.app/",
-    github: "https://github.com/ishaanbahl/grantly",
+    github: "https://github.com/ishaanbahl6200/scholarship-scraper",
     tags: ["React", "Gemini API", "MongoDB"],
   },
 ];

@@ -34,7 +34,7 @@ const entries = [
   {
     company: "IAMB Games",
     role: "Founder",
-    link: "https://iamb.games",
+    link: "https://www.fiverr.com/s/2KVgbjk",
     bullets: [
       "Professional Game Design Studio",
       "Have an international team of contractors",
